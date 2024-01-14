@@ -32,17 +32,17 @@ If you're on windows, use Visual Studio (NOT CODE!!!) or Windows Subsystem for L
    ```
 
 3. Configure your bot:
-   - Rename `config.example.json` to `config.json`.
-   - Replace `YOUR_BOT_TOKEN` with your actual bot token in `config.json`.
+   - Navigate to `config/token.txt`.
+   - Put your actual bot token in the file.
 
 4. Run your bot:
    ```bash
-   ./your-bot-executable
+   ./bot
    ```
 
 ## Usage
 
-- Add your commands in the `src/commands` directory.
+- Add your commands in the `commands/` directory.
 - Customize and extend the bot as per your requirements.
 
 ## Contributors
