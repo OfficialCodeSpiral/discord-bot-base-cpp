@@ -1,5 +1,3 @@
-# C++ Discord Bot Template
-
 ![C++ Discord Bot Template Banner](https://github.com/OfficialCodeSpiral/discord-bot-base-cpp/blob/assets/CodeSpiral%20CPP%20Bot.png)
 
 A simple Discord bot template written in C++ to help you kickstart your own Discord bot project. This template provides a foundation for building a bot with basic functionality.
